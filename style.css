@@ -1,0 +1,15 @@
+.one{
+    background-color: white;
+    width: 160px;
+    height: 160px;
+}
+.two{
+    background-color: black;
+    width: 160px;
+    height: 160px;
+}
+.div-fist{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
